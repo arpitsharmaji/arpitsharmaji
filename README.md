@@ -27,6 +27,26 @@ Building production-ready AI systems and understanding how they work from first 
 
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/arpitsharmaji/arpitsharmaji/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/arpitsharmaji/arpitsharmaji/output/github-contribution-grid-snake.svg">
+
+<img
+alt="github contribution grid snake animation"
+src="https://raw.githubusercontent.com/arpitsharmaji/arpitsharmaji/output/github-contribution-grid-snake.svg">
+
+</picture>
+
+</p>
+
 ---
 
 # 👨‍💻 About Me
@@ -587,23 +607,3 @@ Examples include:
 - Internal Knowledge Assistants
 - Business Workflow Automation
 - AI-assisted Decision Systems
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/arpitsharmaji/arpitsharmaji/output/github-contribution-grid-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/arpitsharmaji/arpitsharmaji/output/github-contribution-grid-snake.svg">
-
-<img
-alt="github contribution grid snake animation"
-src="https://raw.githubusercontent.com/arpitsharmaji/arpitsharmaji/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</p>
